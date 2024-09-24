@@ -24,7 +24,7 @@ A este ponto é importante referir que a empresa se encontra funcional entre as 
 </p><br /><br />
 
 
-O código em questão encontra-se otimizado de forma a o utilizador a possibilitar o utilizador a introduzir a velocidade pretendida, podendo, deste modo, encontrar um meio termo em caso de análise de rotas para uma mistura entre estradas Nacionais e Autoestradas.
+O código em questão encontra-se otimizado de forma a o utilizador a possibilitar o utilizador a introduzir a velocidade pretendida, podendo, deste modo, encontrar um meio termo em caso de análise de rotas para uma mistura entre estradas Nacionais e Autoestradas.<br />
 O número de motorista foi obtido separadamente de forma a ter uma análise mais profunda e considerar as horas de trajeto e descanso permitidas, como analisar a vertente de implementação de um segundo motorista Vs custo obtido.<br />
 Por último, recorreu-se á funcionalidade “3D Maps” do Excel de maneira a ser possível obter uma perspetiva visual de cada rota a realizar, como se pode observar de seguida.<br /><br />
 
