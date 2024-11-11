@@ -1,7 +1,7 @@
 # Problema de roteamento com capacidade limitada 
 Desenvolvimento de um algoritmo em python capaz de obter o número de camiões necessários, sequência de rotas a percorrer e custo de cada rota, tendo por base todos os custos envolvidos no processo (meios de transporte, motoristas, etc), janelas temporais e velocidades de cada meio de transporte.<br /><br />
 
-Este projeto baseou-se na obtenção de rotas e otimização do número de camiões e motoristas tendo a utilizar diariamente, tendo por base:
+Este projeto baseou-se na obtenção de rotas e otimização do número de camiões e motoristas a utilizar diariamente, tendo por base:
 -	todos os custos fixos e variáveis inerentes a este meio de transporte (licenças, seguros, depreciações, pessoal, combustível, pessoas e manutenções);
 -	as velocidades relativas a estradas Nacionais (50 Km/h) e/ou Autoestradas(75 km/h); 
 -	horários de motoristas; 
